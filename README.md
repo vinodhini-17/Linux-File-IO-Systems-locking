@@ -36,7 +36,7 @@ int main()
     write(out,block,nread);
     exit(0);}
 
-
+.
 ``````
 ## OUTPUT
 ![image](https://github.com/vinodhini-17/Linux-File-IO-Systems-locking/assets/145742741/360c530f-762b-47f7-9cd2-807103ee32ad)
