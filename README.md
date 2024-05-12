@@ -86,8 +86,9 @@ int main (int argc, char* argv[])
     close (fd);
     return 0;
 }
-```````````
+```````````````````````````
 ## OUTPUT
+
 ![image](https://github.com/vinodhini-17/Linux-File-IO-Systems-locking/assets/145742741/b39d7144-7a02-4f7b-b050-009d2ab41988)
 
 # RESULT:
